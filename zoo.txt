@@ -1,4 +1,6 @@
 Lion
 Tiger
 Giraffe
+Monkey
+Crocodile
 
